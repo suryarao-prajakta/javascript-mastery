@@ -47,5 +47,3 @@ const product = {
 };
 
 console.log(product);
-
-// Q3
