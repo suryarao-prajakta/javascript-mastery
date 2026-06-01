@@ -1,4 +1,4 @@
-// Non-Primitive data types : objects(Arrays, Functions)
+// Non-Primitive data types : objects(Arrays, Functions) //Heap
 
 // Objects: it is a collection of kay values pair
 
