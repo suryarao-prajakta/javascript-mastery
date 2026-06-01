@@ -1,5 +1,5 @@
 //Data Types in JS
-//Number, String, Boolean, Undefined, Null, BigInt, Symbol //These are primitive data types
+//Number, String, Boolean, Undefined, Null, BigInt, Symbol //These are primitive data types //Stack
 
 let age = 21;
 let price = 100.5; 
