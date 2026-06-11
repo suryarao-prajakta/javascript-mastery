@@ -38,3 +38,17 @@
 // let val = sum(4,5);
 // console.log(val);
 
+//1. sum function
+function sum(a, b) {
+    console.log(a+ b);
+    return;
+}
+sum(3 , 9);
+
+//2. multiplication
+function multiply(x, y) {
+    console.log(x * y);
+    return;
+}
+
+multiply(2,9);
