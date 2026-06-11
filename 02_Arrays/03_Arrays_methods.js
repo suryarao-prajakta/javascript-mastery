@@ -37,6 +37,6 @@ let companies= ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
 // companies.splice(2,1,"ola");
 // console.log(companies);
 
-//c. Add Amezon at the end //push:end , unshift:start
-companies.push("Amezon");
+//c. Add Amazon at the end //push:end , unshift:start
+companies.push("Amazon");
 console.log(companies);
