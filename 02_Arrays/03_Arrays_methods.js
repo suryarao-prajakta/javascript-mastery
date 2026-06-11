@@ -25,3 +25,18 @@
 // let arr = [1,2,3,4,5,6,7];
 // arr.splice(3, 1,101);
 // console.log(arr);
+
+//Q1 Create an array to store companies-> "Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"
+
+//a. Remove the first campany from the array // pop: delete end //shift:delete start
+let companies= ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Netflix"];
+// companies.shift();
+// console.log(companies);
+
+//b. Remove uber & Add Ola in its place //use splice(idx,remove1,add1)
+// companies.splice(2,1,"ola");
+// console.log(companies);
+
+//c. Add Amezon at the end //push:end , unshift:start
+companies.push("Amezon");
+console.log(companies);
