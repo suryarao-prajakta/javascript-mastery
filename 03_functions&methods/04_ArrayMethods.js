@@ -38,3 +38,28 @@ const output= arr.reduce((res,curr)=>{
 });
 
 console.log(output);
+
+// Practice 
+// Q1. We are given array of marks of students. Filter out of the  marks of students that scored 90+.
+
+let marks= [97, 64, 32, 49, 99, 86];
+
+let toppers= marks.filter((val) => {
+    return val > 90
+});
+
+console.log(toppers);
+
+
+// // Q2.Take a number n as input from user. Create an arrray of numbers from 1 to n.
+// // use the reduce method to calculate sum of all numbers in the array.
+
+// prompt("enter a number:");
+
+// let arr =[];
+
+// for(let i =1; i<=n; i++) {
+//     arr [i-1]= i; 
+// }
+
+// console.log(arr);
