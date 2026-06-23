@@ -1,0 +1,32 @@
+.heading {
+    background-color: bisque;
+    color: cadetblue;
+}
+
+p {
+    color: rgb(7, 19, 7);
+    background-color: rgb(211, 97, 51);
+}
+body {
+    background-color: pink;
+}
+
+#btn {
+    background-color: green;
+    color: white;
+
+}
+
+button{
+    background-color: blue;
+    color:white;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aqua;
+}
