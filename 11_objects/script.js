@@ -1,7 +1,7 @@
 //Objects
 
 const student = {
-    fullName : "Prajakta Chandrakant Suryarao" ,
+    fullName : "Prajakt" ,
     marks : 80.81,
     printMarks : function() {
         console.log("marks =", this.marks);   //this means object student //student.marks
@@ -45,3 +45,5 @@ employee2. __proto__ = employee;  //employee2.calcTax() -> tax rate is 10%
 // A javaScript object is an entity having state and behavior (properties and method).
 // js objects have a special property called prototype
 // we can set prototype using __ proto __
+
+
